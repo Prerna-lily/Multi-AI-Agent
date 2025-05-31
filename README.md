@@ -28,5 +28,5 @@ This is a Python-based multi-agent system using [CrewAI](https://github.com/joao
 ### 1. Clone this Repo
 
 ```bash
-git clone https://github.com/prerna-lily/Multi-AI-Agent.git
-cd Multi-AI-Agent
+git clone https://github.com/prerna-lily/Multi-Agent-AI-System-with-CrewAI.git
+cd Multi-Agent-AI-System-with-CrewAI
